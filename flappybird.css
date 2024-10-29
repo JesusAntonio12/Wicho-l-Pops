@@ -1,0 +1,26 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(./yostin.jpg);
+}
+
+#board {
+    background-image: url("./flappybirdbg.png");
+}
+#boardtwo{
+    background-image: url("./flappybirdbg2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#boardthree{
+    background-image: url("./flappybirdbg3.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.display2{
+    display: block;
+
+}
+.display{
+    display: none;
+}
